@@ -1,0 +1,24 @@
+
+
+td{  
+    margin-left: 100px;
+    margin-top: 200px;
+    border: 1px solid rgba(109, 104, 104, 0.764);
+    width: 280px;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+.table{
+    margin: 100px;
+    margin-left: 100px;
+}
+
+.btn1{
+    width: 50px;
+    background-color: green;
+}
+.btn2{
+    width:50px;
+    background-color: red;
+}
